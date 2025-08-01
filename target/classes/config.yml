@@ -1,6 +1,0 @@
-interval: 600
-
-moods:
-  happy: true
-  sad: true
-  angry: true
